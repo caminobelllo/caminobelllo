@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
 <br><br><hr><br>
 <!-- [![caminobello's GitHub stats](https://github-readme-stats.vercel.app/api?username=caminobelllo&include_all_commits=false&theme=dracula&hide_border=true&count_private=true)](https://github.com/caminobelllo/caminobelllo.git) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caminobelllo&layout=compact"><br><br>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caminobelllo&layout=compact"><br><br> -->
 <img src="https://github-readme-stats.vercel.app/api?username=caminobelllo&show_icons=true">
 
 <!--
