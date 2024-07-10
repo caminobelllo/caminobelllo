@@ -2,13 +2,12 @@
 
 I am a developer from Korea interested in front-end development.
 
-<br>
+
 
 #### Skills & Tools
 
 [![My Skills](https://skillicons.dev/icons?i=git,html,css,react,js,ts,nextjs,tailwind,github,vscode,notion)](https://skillicons.dev)
 
-<br>
 
 #### Profile
 - 홍익대학교 컴퓨터공학과 (2021.03 ~)
