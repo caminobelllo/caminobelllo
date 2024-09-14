@@ -1,6 +1,6 @@
 #### Hi! I'm Gayoung Seo 👋
 
-I am a developer from Korea interested in front-end development.
+I'm currently studying Web frontend, backend, and ML.
 
 
 
