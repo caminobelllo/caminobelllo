@@ -6,7 +6,9 @@ I am a developer from Korea interested in front-end development.
 
 #### Skills & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=git,html,css,react,js,ts,nextjs,tailwind,github,vscode,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,html,css,react,js,ts,nextjs,tailwind,styledcomponents,github,vscode,notion)](https://skillicons.dev)
+<br />
+[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 
 
 #### Profile
