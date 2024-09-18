@@ -1,6 +1,6 @@
 #### Hi! I'm Gayoung Seo 👋
 
-I'm currently studying Web frontend, backend, and ML.
+<!-- I'm currently studying Web frontend, backend, and ML. -->
 
 
 
