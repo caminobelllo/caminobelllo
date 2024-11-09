@@ -6,9 +6,8 @@
 
 #### Skills & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=git,html,css,react,js,ts,nextjs,tailwind,styledcomponents,github,vscode,notion)](https://skillicons.dev)
-<br />
-[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,tailwind,styledcomponents)](https://skillicons.dev)<br /><br />
+[![My Skills](https://skillicons.dev/icons?i=git,github,notion)](https://skillicons.dev)
 
 
 #### Profile
