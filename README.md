@@ -40,3 +40,13 @@
 | Cloud · Infra | ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=flat-square&logo=docker&logoColor=ffffff) ![VMware](https://img.shields.io/badge/VMware-607078.svg?style=flat-square&logo=vmware&logoColor=ffffff) ![AWS](https://img.shields.io/badge/AWS-FF9900.svg?style=flat-square&logo=amazonwebservices&logoColor=white) |
 | Dev Tools | ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat-square&logo=intellijidea&logoColor=ffffff) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?style=flat-square&logo=eclipse&logoColor=ffffff) ![VSCode](https://img.shields.io/badge/VSCode-007ACC.svg?style=flat-square&logo=visualstudiocode&logoColor=ffffff) ![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat-square&logo=git&logoColor=ffffff) ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat-square&logo=github&logoColor=ffffff) |
 | Tools | ![Figma](https://img.shields.io/badge/Figma-F15BB5.svg?style=flat-square&logo=figma&logoColor=ffffff) ![Slack](https://img.shields.io/badge/Slack-5E0E5E.svg?style=flat-square&logo=slack&logoColor=ffffff) ![Notion](https://img.shields.io/badge/Notion-000000.svg?style=flat-square&logo=notion&logoColor=ffffff) |
+
+
+## 🧾 Certifications
+
+| 취득일 | 자격증 명 | 발행처 |
+|:------:|:-----------|:--------|
+| 2026.01.02 | 리눅스마스터 2급 | 한국정보통신진흥협회 |
+| 2025.09.14 | TOEIC Speaking Test - AL | ETS |
+| 2025.09.12 | 정보처리기사 | 한국산업인력공단 |
+| 2024.12.13 | SQLD (SQL 개발자) | 한국데이터산업진흥원 |
