@@ -41,8 +41,9 @@
 | Dev Tools | ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat-square&logo=intellijidea&logoColor=ffffff) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?style=flat-square&logo=eclipse&logoColor=ffffff) ![VSCode](https://img.shields.io/badge/VSCode-007ACC.svg?style=flat-square&logo=visualstudiocode&logoColor=ffffff) ![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat-square&logo=git&logoColor=ffffff) ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat-square&logo=github&logoColor=ffffff) |
 | Tools | ![Figma](https://img.shields.io/badge/Figma-F15BB5.svg?style=flat-square&logo=figma&logoColor=ffffff) ![Slack](https://img.shields.io/badge/Slack-5E0E5E.svg?style=flat-square&logo=slack&logoColor=ffffff) ![Notion](https://img.shields.io/badge/Notion-000000.svg?style=flat-square&logo=notion&logoColor=ffffff) |
 
+<br />
 
-## 🧾 Certifications
+## 🛠️ Tech Stacks
 
 | 취득일 | 자격증 명 | 발행처 |
 |:------:|:-----------|:--------|
