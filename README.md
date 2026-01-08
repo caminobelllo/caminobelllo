@@ -22,7 +22,7 @@
 
 ## 📂 Projects
 - [[2023.06 ~ 2024.02] FE : 교내 밴드 학회 웹 서비스  🎸](https://github.com/kahluaband/Homepage_client_ver2.0)
-- [[2024.07 ~ 2024.09] FE : 홍익대학교 대동제 프론트엔드 🎇](https://github.com/2024HongikFestival/Festa-Client-Application)
+- [[2024.07 ~ 2024.09] FE : 홍익대학교 대동제 웹 서비스 🎇](https://github.com/2024HongikFestival/Festa-Client-Application)
 - [[2025.06 ~ 2025.08] BE & Infra : News Intelligent, 뉴스 요약 알림 웹 서비스 📰](https://github.com/newsIntelligent/Backend)
 - [[2025.11 ~ ] BE & Infra : STORIX 🎠](https://github.com/Team-STORIX/STORIX-BE)
 
