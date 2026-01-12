@@ -5,7 +5,7 @@
 
 <br/>
 
-## 🏛️ History 
+## 🏛️ Activities 
 - 2023 홍익대학교 멋쟁이사자처럼 11기 FE 
 - 2024 홍익대학교 멋쟁이사자처럼 12기 FE 운영진
 - 2024 Google Developer Groups(GDG) Hongik Spring Boot
