@@ -25,6 +25,8 @@
 - [[2024.07 ~ 2024.09] FE : 홍익대학교 대동제 웹 서비스 🎇](https://github.com/2024HongikFestival/Festa-Client-Application)
 - [[2025.06 ~ 2025.08] BE & Infra : News Intelligent, 뉴스 요약 알림 웹 서비스 📰](https://github.com/newsIntelligent/Backend)
 - [[2025.11 ~ ] BE & Infra : STORIX 🎠](https://github.com/Team-STORIX/STORIX-BE)
+- [[2026.01] 우리FISA 클라우드 엔지니어링 : ELK를 활용한 우리카드 데이터 분석 📊](https://github.com/FISA-Team-CE/elk-project)
+- [[2026.01] 우리FISA 클라우드 엔지니어링 : n8n 자동화 프로젝트 🤖](https://github.com/FISA-Team-CE/elk-project)
 
 <br />
 
