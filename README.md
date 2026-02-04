@@ -11,12 +11,14 @@
 - 2024 Google Developer Groups(GDG) Hongik Spring Boot
 - 2025 AWS Cloud Club Hongik 2/3기 멤버
 - 2025 UMC Hongik 8기 Spring Boot
-- 2025 CEOS 22기 BE (Spring Boot)
+- 2025 신촌 연합 IT 창업동아리 CEOS 22기 BE (Spring Boot)
 
 <br/>
 
 ## 🏆 Awards
 - 2025 수도권역 미니 텍스코어 (TeX-Corps) 대상
+- 2026 신촌 연합 IT 창업동아리 CEOS 22기 데모데이 최우수상
+- 신촌 연합 IT 창업동아리 CEOS 22기 데모데이 베스트 프로덕트상
 
 <br/>
 
