@@ -36,7 +36,7 @@
 
 | Category | Stack |
 | ------- | ---- |
-| OS | ![macOS](https://img.shields.io/badge/macOS-000000.svg?style=flat-square&logo=apple&logoColor=ffffff) ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=flat-square&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D4.svg?style=flat-square&logo=windows&logoColor=ffffff) |
+| OS | ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=flat-square&logo=linux&logoColor=black)  |
 | Languages |  ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=coffeescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-228B22?style=flat-square&logo=Python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-FFDC28.svg?style=flat-square&logo=javascript&logoColor=ffffff) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat-square&logo=typescript&logoColor=white) |
 | Client | ![React](https://img.shields.io/badge/React-61DAFB.svg?style=flat-square&logo=react&logoColor=ffffff) ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=flat-square&logo=nextdotjs&logoColor=white) |
 | Backend | ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?style=flat-square&logo=spring&logoColor=ffffff) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F.svg?style=flat-square&logo=springboot&logoColor=ffffff) |
