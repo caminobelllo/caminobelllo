@@ -52,7 +52,7 @@
 
 | 취득일 | 자격증 명 | 발행처 |
 |:------:|:-----------|:--------|
-| 2026.03.06 | AWS Certified Solutions Architect - Associate | Amazon Web Service |
+| 2026.03.14 | AWS Certified Solutions Architect - Associate | Amazon Web Service |
 | 2026.03.06 | ADsP (데이터분석 준전문가) | 한국데이터산업진흥원 |
 | 2026.01.02 | 리눅스마스터 2급 | 한국정보통신진흥협회 |
 | 2025.09.14 | TOEIC Speaking Test - AL | ETS |
