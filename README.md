@@ -12,13 +12,14 @@
 - 2025 AWS Cloud Club Hongik 2/3기 멤버
 - 2025 UMC Hongik 8기 Spring Boot
 - 2025 신촌 연합 IT 창업동아리 CEOS 22기 BE (Spring Boot)
+- 2026 우리FIS 아카데미 클라우드 엔지니어링 과정 6기
 
 <br/>
 
 ## 🏆 Awards
 - 2025 수도권역 미니 텍스코어 (TeX-Corps) 대상
-- 2026 신촌 연합 IT 창업동아리 CEOS 22기 데모데이 최우수상
-- 2026 신촌 연합 IT 창업동아리 CEOS 22기 데모데이 베스트 프로덕트상
+- 2026 신촌 연합 IT 창업동아리 CEOS 22기 데모데이 최우수상, 베스트 프로덕트상
+- 2026 우리FIS 아카데미 1차 기술 세미나 우수상
 
 <br/>
 
@@ -27,9 +28,11 @@
 - [[2024.07 ~ 2024.09] FE : 홍익대학교 대동제 웹 서비스 🎇](https://github.com/2024HongikFestival/Festa-Client-Application)
 - [[2025.06 ~ 2025.08] BE & Infra : News Intelligent, 뉴스 요약 알림 웹 서비스 📰](https://github.com/newsIntelligent/Backend)
 - [[2025.11 ~ ] BE & Infra : STORIX 🎠](https://github.com/Team-STORIX/STORIX-BE)
-- [[2026.01] 우리FISA 클라우드 엔지니어링 : ELK를 활용한 우리카드 데이터 분석 📊](https://github.com/FISA-Team-CE/elk-project)
-- [[2026.01] 우리FISA 클라우드 엔지니어링 : n8n 자동화 프로젝트 🤖](https://github.com/FISA-Team-n8n/n8n_create_problems)
-- [[2026.01 ~ 2026.02] 우리FISA 클라우드 엔지니어링 : 1차 기술 세미나: 뱅킹 시스템에서의 MSA 도입 🌐](https://github.com/FISA-Team-CE/tech-semina-msa)
+- [[2026.01] Data : ELK를 활용한 우리카드 데이터 분석 📊](https://github.com/FISA-Team-CE/elk-project)
+- [[2026.01] 자동화 : n8n 자동화 프로젝트 🤖](https://github.com/FISA-Team-n8n/n8n_create_problems)
+- [[2026.01 ~ 2026.02] BE & Infra : 뱅킹 시스템 MSA 프로젝트 🌐](https://github.com/FISA-Team-CE/tech-semina-msa)
+- [[2026.02] Infra : VMware vSphere 기반 프라이빗 인프라 구축 프로젝트 💾](https://github.com/caminobelllo/VMware)
+- [[2026.03] Infra : Docker 이미지 최적화 프로젝트 🐳](https://github.com/caminobelllo/Docker-Image-Optimization)
 
 <br />
 
