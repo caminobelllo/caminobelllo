@@ -33,6 +33,8 @@
 - [[2026.01 ~ 2026.02] BE & Infra : 뱅킹 시스템 MSA 프로젝트 🌐](https://github.com/FISA-Team-CE/tech-semina-msa)
 - [[2026.02] Infra : VMware vSphere 기반 프라이빗 인프라 구축 프로젝트 💾](https://github.com/caminobelllo/VMware)
 - [[2026.03] Infra : Docker 이미지 최적화 프로젝트 🐳](https://github.com/caminobelllo/Docker-Image-Optimization)
+- [[2026.03] Infra : Linux 로그 분석을 통한 시스템 운영 장애 징후와 보안 이상 행위 탐지 및 시각화 🐧](https://github.com/caminobelllo/FISA-Linux)
+- [[2026.04] Infra : GitOps: ArgoCD + ApplicationSet 기반 멀티 클러스터 운영 전략 세미나 🐙](https://github.com/caminobelllo/FISA-gitops)
 
 <br />
 
